@@ -3,7 +3,7 @@ How to Contact RoboForm Customer Support Easily?
 
 Managing passwords and keeping sensitive data secure is a priority for every internet user today, and RoboForm is one of the most popular tools to help with that. However, as with any software, you might encounter an issue or have questions about using RoboForm’s many features. In such cases, it’s essential to know how to contact **RoboForm customer support** to get quick, reliable assistance.
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: support.png
    :alt: My Project Logo
    :width: 400px
    :align: center
